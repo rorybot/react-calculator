@@ -1,3 +1,6 @@
+I like the structure of this. The testing makes it much better than other neat React examples. Want to try breaking it with some new tests first.
+_____
+
 # TDD React
 
 A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
